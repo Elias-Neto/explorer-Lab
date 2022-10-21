@@ -1,7 +1,7 @@
 <h1 align="center">Explorer Lab #01 🚀</h1>
 
 <div align="center">
-  <img width="500px" src="./.github/demonstracao.gif">
+  <img src="./.github/demonstracao.gif">
 </div>
 
 <div align="center">
